@@ -12,13 +12,7 @@ The app combines a scalable backend API, persistent chat systems, and dynamic pe
 
 - ⚡ High-performance backend powered by FastAPI
 - 🧠 Character engine with memory, lore, mood shifts, and personality traits
-- 💬 Real-time chat architecture with persistent sessions
-- 🌌 Original dystopian “Fever Dream” characters with evolving narratives
-- 🔥 Streaming AI responses for immersive conversations
-- 🗂 Chat history, conversation threading, and contextual memory
-- 🎭 Persona switching and multi-character interactions
-- 🧪 Modular architecture for expanding worlds and character archetypes
-- 🔐 Auth-ready backend with scalable API structure
+
 
 ---
 
@@ -60,6 +54,14 @@ The next you're negotiating with an AI therapist trained exclusively on cult man
 It’s an experimental narrative engine where dystopian storytelling, AI personalities, and real-time interaction collide.
 
 Built for people who want conversations that feel alive, unstable, and unforgettable.
+
+- 💬 Real-time chat architecture with persistent sessions
+- 🌌 Original dystopian “Fever Dream” characters with evolving narratives
+- 🔥 Streaming AI responses for immersive conversations
+- 🗂 Chat history, conversation threading, and contextual memory
+- 🎭 Persona switching and multi-character interactions
+- 🧪 Modular architecture for expanding worlds and character archetypes
+- 🔐 Auth-ready backend with scalable API structure
 
 ---
 
